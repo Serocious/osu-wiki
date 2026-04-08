@@ -489,7 +489,7 @@ The **Russian Community Beatmapping Contest** is a mapping contest for Russian-s
 
 ## Notes
 
-[^pending-cup-11-track2-3]: The two tracks were combined to meet [Official beatmapping contest support](/wiki/Contests/Official_support) requirements.
+[^pending-cup-11-track2-3]: The two tracks were combined to meet [official beatmapping contest support](/wiki/Contests/Official_support) requirements.
 [^pending-cup-11-track2-3-badge]: As the contest rules stated if a contestant submits entries for multiple tracks, only the higher scoring entry will be counted towards final scorings, badge eligibility was given to the next ranked contestant in the lower scoring track.
 [^pending-cup-10-vocal]: The Vocal category provides mappers with a choice of five different songs to be mapped: Wotamin - Kinetic Henai Club, Shikata Akiko - Expressive Hill -Harmonics EOLIA-, Feryquitous - Estahv, Eve/rei sirose - Airhead, NceS - Burn.
 [^pending-cup-10-fa-instrumental]: The Instrumental and Featured Artist categories were combined to meet [Official beatmapping contest support](/wiki/Contests/Official_support) requirements. The category provides mappers with a choice of 10 different songs to be mapped: Instrumental: The Brutal King - theme of Rance, Ebico & jioyi - Slit, sasakure.UK - Helix of Garatia, kamome sano - init\(\), and Nankumo - DRAGONLADY; Featured Artist: A.SAKA - REIMEI, Annabel - Wormhole, Morimori Atsushi - Realization, polysha feat. Sennzai - Hurt Urge, Raimukun - Cthulhu.

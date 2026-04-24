@@ -478,7 +478,7 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 
 #### [Newspaper Cup \#8 (2022)](https://osu.ppy.sh/community/forums/topics/1457197)
 
-| Category | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | ![Gold crown][GCrown] (Novice Winner)[^newspaper-cup-8-novice] | Results |
+| Category | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | ![Gold crown][GCrown] (Novice winner)[^newspaper-cup-8-novice] | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- | :-- |
 | Vocal[^newspaper-cup-8-vocal] | ![osu!][osu!] | ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669) and ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509) | ::{ flag=MX }:: [funny](https://osu.ppy.sh/users/8473573) and ::{ flag=CA }:: [arkisol](https://osu.ppy.sh/users/9331411) | ::{ flag=CN }:: [FORMless000](https://osu.ppy.sh/users/8697654) | ::{ flag=CN }:: [FORMless000](https://osu.ppy.sh/users/8697654) | [#1](https://osu.ppy.sh/community/forums/topics/1457197) |
 | Instrumental[^newspaper-cup-8-instrumental] | ![osu!][osu!] | ::{ flag=CL }:: [Pyo](https://osu.ppy.sh/users/6641784) | ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) and ::{ flag=US }:: [zhuxiaoyan](https://osu.ppy.sh/users/5129592) | ::{ flag=CN }:: [X Light](https://osu.ppy.sh/users/1814662) | ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268) | [#1](https://osu.ppy.sh/community/forums/topics/1457197) |

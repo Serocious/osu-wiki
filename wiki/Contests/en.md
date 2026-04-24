@@ -516,7 +516,7 @@ The **Russian Community Beatmapping Contest** is a mapping contest for Russian-s
 
 ## Notes
 
-[^newspaper-cup-10-instrumental-badge]: As the contest rules stated if a contestant submits entries for multiple tracks, only the higher scoring entry will be counted towards final scorings, badge eligibility was given to the next novice contestant in the lower scoring track.
+[^newspaper-cup-10-instrumental-badge]: According to the contest rules, when a contestant submits multiple entries, only the highest-scoring entry is counted towards the final score. Therefore, the badge was awarded to the next novice contestant in the lower-scoring track.
 [^newspaper-cup-10-vocal]: The Vocal category provides mappers with a choice of two different songs to be mapped: Snail's House - Sunflower, and katagiri - Urushi. 
 [^newspaper-cup-10-instrumental]: The Instrumental category provides mappers with a choice of two different songs to be mapped: Yui Ogura - Empty//Princess, and marasy x Jin x kemu feat. Kagamine Rin - Shinjinrui. 
 [^newspaper-cup-8-novice]: The Novice category was introduced to provide separate prizes for new mappers when judged together with regular participants. Definitions are specified in the [contest forum post](https://osu.ppy.sh/community/forums/topics/1457197).

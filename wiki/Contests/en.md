@@ -203,7 +203,7 @@ The **Fan Art Contest** is a drawing contest where participating artists from th
 | [#41](https://osu.ppy.sh/home/news/2024-09-06-autumn-fanart-contest) | Autumn 2024 Fanart Contest | Autumn | ::{ flag=ID }:: [KAITO thighs](https://osu.ppy.sh/users/13103233) | ::{ flag=CA }:: [leeian](https://osu.ppy.sh/users/12595640) | ::{ flag=SG }:: [Type](https://osu.ppy.sh/users/7520534) | [#1](https://osu.ppy.sh/home/news/2024-10-09-autumn-2024-fanart-results), [#2](https://osu.ppy.sh/community/contests/221) |
 | [#42](https://osu.ppy.sh/home/news/2024-12-03-midnight-moment-art-contest) | Midnight Moment Art Contest | osu! mascots sharing a moment on a winter night | ::{ flag=CA }:: [leeian](https://osu.ppy.sh/users/12595640) | ::{ flag=ID }:: [KAITO thighs](https://osu.ppy.sh/users/13103233) | ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849) | [#1](https://osu.ppy.sh/home/news/2025-01-01-midnight-moment-art-contest-results), [#2](https://osu.ppy.sh/community/contests/226) |
 
-### Locus
+### [Locus](Locus)
 
 **Locus 2025** is a multi-layered contest launched in early 2025 to bring the creative circles on osu! closer together, where participants must create entirely original beatmaps complete with music and visuals.
 

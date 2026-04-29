@@ -82,8 +82,6 @@ translation_keys:
     tiebreaker: TB
     ' wildcard': 外卡
     ' pick': ' 选图'
-outdated_translation: true
-outdated_since: 2f576e595cc820db0f9aa95ae94f575057313d7f
 ---
 
 <!-- “统计”部分和“列表”部分的所有内容都是自动化翻译的。如果一条翻译有误、格式不正确或需要更新，请通过开发服务器上的 `#osu-wiki` 频道联系 wiki 维护者。 -->

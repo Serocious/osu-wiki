@@ -36,7 +36,7 @@ translation_keys:
     osu! theme: osu! 主题曲
     osu!\(lazer\) "ranked play" theme: osu!(lazer) 排位模式主题曲
     ' tutorial song': 教程歌曲
-    'Christmas/Winter (\d{4}) ': "\1 年圣诞节/冬季 "
+    'Christmas/Winter (\d{4}) ': "\\1 年圣诞节/冬季 "
     'Halloween 2016 ': "2016 年万圣节 "
     'Summer 2023 ': "2023 年夏季 "
     Original composition for \[osu!stream\]\(/wiki/osu!stream\): 为 [osu!stream](/wiki/osu!stream)
